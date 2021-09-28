@@ -5,8 +5,6 @@ The intention is to store groups of things and push each latest created PacMan i
 To keep track of all these created PacMen, codes were mirrored as virtual HTLM DOM.
 
 
-<img src= "PacMan1.png" width='300'/>
-
 ### <div align="center">Description</div>
 - PacMen is a fun exercise to use a button for creattion of multiple PacMen moving at random speeds and bouncing off the walls.
 - The intention is to store groups of things and push each latest created PacMan into an array.  
@@ -15,6 +13,8 @@ To keep track of all these created PacMen, codes were mirrored as virtual HTLM D
    - Generates one at a time.
    - Each generated Pacman has random speed.
    - Pacmen will revert direction upon hititng the edge of browser.
+
+<img src= "PacMan1.png" width='100'/>
 
 ### <div align="center">Instructions</div>
  1. From GitHub, download the zip file if not Fork to the local machine
