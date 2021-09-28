@@ -15,10 +15,11 @@ To keep track of all these created PacMen, codes were mirrored as virtual HTLM D
    - Pacmen will revert direction upon hititng the edge of browser.
 
 ### <div align="center">Instructions</div>
- 1. Launch PacMen.htlm in a browser.
- 2. Click the 'Add PacMan' button to create a PacMan
- 3. Add as many PacMen as desired.
- 4. Click 'Start Game' to watch PacMen move.
+ 1. From GitHub, download the zip file if not Fork to the local machine
+ 2. From the downloaded folder, double click on index.html if not using clone feature in GitHub from the local machine
+ 3. Click the 'Add PacMan' button to create a PacMan
+ 4. Add as many PacMen as desired.
+ 5. Click 'Start Game' to watch PacMen move.
 
  ### <div align="center">Roadmap of Major Future Improvements</div>
  - Add mouth movement
@@ -27,5 +28,3 @@ To keep track of all these created PacMen, codes were mirrored as virtual HTLM D
 
 ### <div align="center">License Information</div>
  - [MIT License](https://mit-license.org/)
-
-***
