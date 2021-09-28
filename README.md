@@ -4,7 +4,7 @@ PacMen is a fun exercise to use a button for creattion of multiple PacMen moving
 The intention is to store groups of things and push each latest created PacMan into an array.  
 To keep track of all these created PacMen, codes were mirrored as virtual HTLM DOM.
 
-
+### <div align="center"><img src= "PacMan1.png" width='88'/></div>
 <img src= "PacMan1.png" width='88'/>
 
 ### <div align="center">Description</div>
